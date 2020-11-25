@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605819532 source:c:\users\danie\onedrive\documents\documents\daniel ballen\platzi\samsung innovation campus\c\num_aleatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
